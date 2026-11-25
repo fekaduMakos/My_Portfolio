@@ -1,0 +1,20 @@
+[
+  {
+    "id": "local-1795553449832",
+    "title": "Arduino-with-LCD-and-Temperature-Sensor",
+    "slug": "arduino-with-lcd-and-temperature-sensor",
+    "description": "It is work on Adriano and in thinker cad project",
+    "case_study": null,
+    "cover_image": "/images/projects/1795552327991-Arduino_LCD_Temperature_Project.png",
+    "demo_url": null,
+    "github_url": null,
+    "tags": [
+      "C++"
+    ],
+    "category": "Fullstack",
+    "featured": false,
+    "sort_order": 0,
+    "created_at": "2026-11-24T20:50:49.832Z",
+    "updated_at": "2026-11-24T20:50:49.832Z"
+  }
+]
